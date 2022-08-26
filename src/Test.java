@@ -5,5 +5,6 @@ public class Test {
         int x = 10;
         int z  = 9;
         int y = 11;
+        System.out.println(x+y+z);
     }
 }
