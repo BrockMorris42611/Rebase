@@ -6,5 +6,8 @@ public class Test {
         int z  = 9;
         int y = 11;
         System.out.println(x+y+z);
+        System.out.println(x*x);
+        System.out.println(z*z);
+        System.out.println(y*y);
     }
 }
