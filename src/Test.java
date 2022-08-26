@@ -9,5 +9,6 @@ public class Test {
         System.out.println(x*x);
         System.out.println(z*z);
         System.out.println(y*y);
+        System.out.println("DONE");
     }
 }
